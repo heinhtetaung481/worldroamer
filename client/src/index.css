@@ -1,0 +1,10 @@
+body {
+  background-color: #f5f5f5;
+}
+body,
+.MuiTypography-root {
+  margin: 0;
+  font-family: "Montserrat", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
