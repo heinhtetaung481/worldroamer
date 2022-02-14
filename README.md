@@ -4,7 +4,8 @@ Follow the steps below to deploy locally
 1. clone the repository
 2. `cd` into the cloned repository
 3. Create `.env` file with the follwing contents \
-```JWT_SECRET = <YOUR_JWT_SECRET>
+```
+JWT_SECRET = <YOUR_JWT_SECRET>
 REFRESH_TOKEN_SECRET = <YOUR_REFRESH_TOKEN_SECRET>
 SESSION_EXPIRY = 60 * 15. 
 REFRESH_TOKEN_EXPIRY = 60 * 60 * 24 * 30. 
